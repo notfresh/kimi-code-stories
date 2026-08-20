@@ -43,4 +43,4 @@ tags: [...]
 ## 关联
 
 - 上游仓库: https://github.com/MoonshotAI/kimi-code
-- 我的 GitHub: https://github.com/notfresh
+- 我的 kimi-code 研究仓库: https://github.com/notfresh/kimi-code-study
