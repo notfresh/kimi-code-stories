@@ -39,8 +39,10 @@ tags: [...]
 | # | 标题 | 日期 |
 |---|------|------|
 | 1 | [为什么 agent-core 看起来像第三方包](story-1-why-core-in-package-directory.md) | 2026-08-20 |
+| 2 | [为什么读 kimi-code 源码](story-2-why-read-kimi-code-source.md) | 2026-08-20 |
 | 3 | [通用 Agent 和 Coding Agent 到底差在哪？](story-3-general-agent-vs-coding-agent.md) | 2026-08-20 |
 | 4 | [Hermes 简史——从 7 个文件长成一座城](story-4-hermes-history.md) | 2026-08-20 |
+| 5 | [开源贡献正在变难——以 alias 功能设计为例](story-5-first-upstream-contribution-attempt.md) | 2026-08-21 |
 
 ## 关联
 
