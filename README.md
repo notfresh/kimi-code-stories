@@ -44,6 +44,7 @@ tags: [...]
 | 4 | [Hermes 简史——从 7 个文件长成一座城](story-4-hermes-history.md) | 2026-08-20 |
 | 5 | [开源贡献正在变难——以 alias 功能设计为例](story-5-first-upstream-contribution-attempt.md) | 2026-08-21 |
 | 6 | [Kimi Code 的野望——从 68 个 Release 到 500 亿美元](story-6-kimi-code-position-and-capital.md) | 2026-08-20 |
+| 7 | [How do I build an agent？——我为什么做、又怎么做自己的 coding agent](story-7-how-i-built-my-own-coding-agent.md) | 2026-08-24 |
 
 ## 关联
 
