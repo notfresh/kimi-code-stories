@@ -46,6 +46,7 @@ tags: [...]
 | 6 | [Kimi Code 的野望——从 68 个 Release 到 500 亿美元](story-6-kimi-code-position-and-capital.md) | 2026-08-20 |
 | 7 | [How do I build an agent？——我为什么做、又怎么做自己的 coding agent](story-7-how-i-built-my-own-coding-agent.md) | 2026-08-24 |
 | 8 | [kimi-code 编译速记 —— 我加特性时只用三条命令](story-8-build-commands-for-developers.md) | 2026-09-17 |
+| 9 | [给 Windows 用户出 kimi 二进制 —— 我把这件事推给了 GitHub Actions](story-9-windows-build-via-github-actions.md) | 2026-09-17 |
 
 ## Howto（不进 story 序列，独立操作手册）
 
