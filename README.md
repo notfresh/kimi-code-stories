@@ -47,6 +47,12 @@ tags: [...]
 | 7 | [How do I build an agent？——我为什么做、又怎么做自己的 coding agent](story-7-how-i-built-my-own-coding-agent.md) | 2026-08-24 |
 | 8 | [kimi-code 编译速记 —— 我加特性时只用三条命令](story-8-build-commands-for-developers.md) | 2026-09-17 |
 
+## Howto（不进 story 序列，独立操作手册）
+
+| 标题 | 日期 |
+|------|------|
+| [Kimi Code 怎么安装和卸载插件](howto-plugins-install-uninstall.md) | 2026-09-21 |
+
 ## 关联
 
 - 上游仓库: https://github.com/MoonshotAI/kimi-code
