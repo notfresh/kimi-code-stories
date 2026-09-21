@@ -6,6 +6,12 @@ status: recorded
 tags: [kimi-code, plugins, howto, cli]
 ---
 
+我是一个Kimi Code的用户，我用很多AI Coding Agent，但是kimi Code目前是主力工具。
+
+我主要使用 Kimi Code TUI，因为我不愿意放弃 Microsoft VS Code，我觉得这个IDE更加稳定，但是我慢慢的会淘汰 Copilot，因为它不太好用，有点贵。
+
+所以，我使用Kimi Code TUI管理插件，我自己也做插件，但是做插件的中途，我有一些困惑，所以记录了下来。
+
 > 这篇面向"已经知道插件是什么、就想把它装上/卸掉"的用户。覆盖 Kimi Code 的 `/plugins` 面板、`/plugins install` 命令行、GitHub 直装、自定义 marketplace，以及配套的卸载、`/reload` 流程、shell `PATH` 问题。
 >
 > 信息来源：[Plugins | Kimi Code Docs](https://www.kimi.com/code/docs/en/kimi-code-cli/customization/plugins.html)。
