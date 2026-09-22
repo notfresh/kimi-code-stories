@@ -47,6 +47,7 @@ tags: [...]
 | 7 | [How do I build an agent？——我为什么做、又怎么做自己的 coding agent](story-7-how-i-built-my-own-coding-agent.md) | 2026-08-24 |
 | 8 | [kimi-code 编译速记 —— 我加特性时只用三条命令](story-8-build-commands-for-developers.md) | 2026-09-17 |
 | 9 | [给 Windows 用户出 kimi 二进制 —— 我把这件事推给了 GitHub Actions](story-9-windows-build-via-github-actions.md) | 2026-09-17 |
+| 10 | [一个 alias 功能改了 14 个文件——Kimi Code 的配置管道为啥这么厚](story-10-alias-feature-four-pipeline-architecture.md) | 2026-09-17 |
 
 ## Howto（不进 story 序列，独立操作手册）
 
