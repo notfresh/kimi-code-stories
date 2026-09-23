@@ -47,6 +47,7 @@ tags: [...]
 | 7 | [How do I build an agent？——我为什么做、又怎么做自己的 coding agent](story-7-how-i-built-my-own-coding-agent.md) | 2026-08-24 |
 | 8 | [kimi-code 编译速记 —— 我加特性时只用三条命令](story-8-build-commands-for-developers.md) | 2026-09-17 |
 | 10 | [一个 alias 功能改了 14 个文件——Kimi Code 的配置管道为啥这么厚](story-10-alias-feature-four-pipeline-architecture.md) | 2026-09-17 |
+| 11 | [我研究了一下 AI Agent 的 YOLO 模式，发现事情没那么简单](story-11-yolo-mode-investigation.md) | 2026-09-23 |
 
 ## Howto（不进 story 序列，独立操作手册）
 
