@@ -41,13 +41,11 @@ tags: [...]
 | 1 | [为什么 agent-core 看起来像第三方包](story-1-why-core-in-package-directory.md) | 2026-08-20 |
 | 2 | [为什么读 kimi-code 源码](story-2-why-read-kimi-code-source.md) | 2026-08-20 |
 | 3 | [通用 Agent 和 Coding Agent 到底差在哪？](story-3-general-agent-vs-coding-agent.md) | 2026-08-20 |
-| 4 | ~~Hermes 简史——从 7 个文件长成一座城~~（已移至 [Hermes-Agent-Stories](https://github.com/notfresh/hermes-agent-stories)） | 2026-08-20 |
-| 5 | [开源贡献正在变难——以 alias 功能设计为例](story-5-first-upstream-contribution-attempt.md) | 2026-08-21 |
-| 6 | [Kimi Code 的野望——从 68 个 Release 到 500 亿美元](story-6-kimi-code-position-and-capital.md) | 2026-08-20 |
-| 7 | ~~How do I build an agent？——我为什么做、又怎么做自己的 coding agent~~（已移至 [Hermes-Agent-Stories](https://github.com/notfresh/hermes-agent-stories)） | 2026-08-24 |
-| 8 | [kimi-code 编译速记 —— 我加特性时只用三条命令](story-8-build-commands-for-developers.md) | 2026-09-17 |
-| 10 | [一个 alias 功能改了 14 个文件——Kimi Code 的配置管道为啥这么厚](story-10-alias-feature-four-pipeline-architecture.md) | 2026-09-17 |
-| 11 | [我研究了一下 AI Agent 的 YOLO 模式，发现事情没那么简单](story-11-yolo-mode-investigation.md) | 2026-09-23 |
+| 4 | [开源贡献正在变难——以 alias 功能设计为例](story-4-first-upstream-contribution-attempt.md) | 2026-08-21 |
+| 5 | [Kimi Code 的野望——从 68 个 Release 到 500 亿美元](story-5-kimi-code-position-and-capital.md) | 2026-08-20 |
+| 6 | [kimi-code 编译速记 —— 我加特性时只用三条命令](story-6-build-commands-for-developers.md) | 2026-09-17 |
+| 7 | [一个 alias 功能改了 14 个文件——Kimi Code 的配置管道为啥这么厚](story-7-alias-feature-four-pipeline-architecture.md) | 2026-09-17 |
+| 8 | [我研究了一下 AI Agent 的 YOLO 模式，发现事情没那么简单](story-8-yolo-mode-investigation.md) | 2026-09-23 |
 
 ## Howto（不进 story 序列，独立操作手册）
 

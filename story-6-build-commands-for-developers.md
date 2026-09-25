@@ -1,5 +1,5 @@
 ---
-story_id: 8
+story_id: 6
 title: kimi-code 编译速记 —— 我加特性时只用三条命令
 date: 2026-09-17
 author: notfresh

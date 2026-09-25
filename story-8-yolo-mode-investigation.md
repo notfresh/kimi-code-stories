@@ -1,5 +1,5 @@
 ---
-story_id: 11
+story_id: 8
 title: 我研究了一下 AI Agent 的 YOLO 模式，发现事情没那么简单
 date: 2026-09-23
 author: notfresh

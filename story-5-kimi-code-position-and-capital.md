@@ -1,5 +1,5 @@
 ---
-story_id: 6
+story_id: 5
 title: Kimi Code 的野望——从 68 个 Release 到 500 亿美元（产品定位与资本研判）
 date: 2026-08-20
 author: notfresh

@@ -1,5 +1,5 @@
 ---
-story_id: 5
+story_id: 4
 title: 开源贡献正在变难——以 alias 功能设计为例
 date: 2026-08-21
 author: notfresh

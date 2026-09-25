@@ -1,5 +1,5 @@
 ---
-story_id: 10
+story_id: 7
 title: 一个 alias 功能改了 14 个文件——Kimi Code 的配置管道为啥这么厚
 date: 2026-09-17
 author: notfresh
